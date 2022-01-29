@@ -1,6 +1,6 @@
 # My ds projects
 
-From the[SF DS course](link)
+From the [SF DS course](link)
 
 ## Проекты
 
